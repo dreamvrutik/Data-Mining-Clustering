@@ -1,0 +1,36 @@
+Run #01
+Initial Centroids = [95, 4, 213, 256, 185, 279]
+
+Clusters Formed
+Cluster 1: Centroid - 235; Cluster Size -  42 
+Cluster 2: Centroid -   4; Cluster Size -  38
+Cluster 3: Centroid - 213; Cluster Size -  22
+Cluster 4: Centroid - 243; Cluster Size - 126
+Cluster 5: Centroid - 185; Cluster Size -  49
+Cluster 6: Centroid - 279; Cluster Size -  34
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Run #02
+Initial Centroids = [248, 2, 75, 49, 122, 306]
+
+Clusters Formed
+Cluster 1: Centroid - 248; Cluster Size -   5 
+Cluster 2: Centroid -   9; Cluster Size - 230
+Cluster 3: Centroid -  75; Cluster Size -  11
+Cluster 4: Centroid -  49; Cluster Size -  45
+Cluster 5: Centroid - 122; Cluster Size -   1
+Cluster 6: Centroid - 306; Cluster Size -  19
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Run #03
+Initial Centroids = [305, 244, 62, 37, 300, 42]
+
+Clusters Formed
+Cluster 1: Centroid -   9; Cluster Size - 187 
+Cluster 2: Centroid - 244; Cluster Size -  17
+Cluster 3: Centroid -  62; Cluster Size -   9
+Cluster 4: Centroid -  37; Cluster Size -  58
+Cluster 5: Centroid - 300; Cluster Size -  30
+Cluster 6: Centroid - 223; Cluster Size -  10
+
+--------------------------------------------------------------------------------------------------------------------------------------------
